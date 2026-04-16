@@ -1,0 +1,16 @@
+feature,importance
+no_checking,0.08881725
+checking_status_no_checking,0.077793196
+savings_status_lt100,0.024180342
+other_payment_plans_none,0.023520835
+property_magnitude_real_estate,0.02267349
+checking_status_lt0,0.022141235
+other_parties_none,0.022106621
+housing_own,0.021604812
+duration,0.021481596
+credit_history_critical_other_existing_credit,0.021153646
+is_overdrawn,0.019509468
+has_guarantor,0.019498246
+employment_lt1,0.01924824
+employment_score,0.018853791
+credit_history_delayed_previously,0.018307518

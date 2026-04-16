@@ -1,0 +1,7 @@
+Threshold,Metric,Count
+0.50,Caught Defaulters,42
+0.50,Missed Defaulters,18
+0.50,False Positives,20
+0.35,Caught Defaulters,50
+0.35,Missed Defaulters,10
+0.35,False Positives,35
