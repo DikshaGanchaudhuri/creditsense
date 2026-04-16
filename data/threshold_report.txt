@@ -1,0 +1,23 @@
+CREDITSENSE — THRESHOLD ANALYSIS REPORT
+==================================================
+
+OBJECTIVE
+Determine the optimal classification threshold for
+a risk-averse lending strategy.
+
+A/B TEST RESULTS
+Threshold 0.50 — Missed defaulters: 18
+             — Defaulter catch rate: 70.0%
+             — False positives: 35
+
+Threshold 0.35 — Missed defaulters: 12
+             — Defaulter catch rate: 80.0%
+             — False positives: 55
+
+RECOMMENDATION
+Adopt threshold 0.35 for a risk-averse lending strategy.
+This reduces missed defaulters by 33.3%,
+accepting a moderate increase in false positives.
+The cost of a missed defaulter (bad loan approved)
+far outweighs the cost of a false positive
+(good borrower rejected — reapplication possible).
